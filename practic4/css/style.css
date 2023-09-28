@@ -1,0 +1,33 @@
+/* Установка стилей для тела страницы */
+body {
+    font-family: 'Century Gothic', serif;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    background: url(../img/car.png) no-repeat;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+}
+/* Стили для контейнера */
+.container {
+    width: 26%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 5px solid #111111;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 633px;
+    font-size: 20px;
+    font-weight: 900;
+}
+/* Стили для сообщений */
+.message {
+    font-size: 18px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #e0e0e0;
+    border: 1px solid #999;
+    border-radius: 5px;
+}
